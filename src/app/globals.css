@@ -11,6 +11,9 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --default: #2D1E2F;
+    --egg-shell: #EBEBEB;
+    --primary: #F7B32B;
   }
 }
 
